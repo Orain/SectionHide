@@ -1,0 +1,4 @@
+SectionHide
+===========
+
+MediaWiki Extension
